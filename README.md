@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://github.com/Khali851999)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
 <a href="https://www.linkedin.com/in/akshat-jindal">
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -38,9 +42,13 @@ Here are some ideas to get you started:
    <img align="left" alt="Akshat's Codeforces" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11348596/akshat-jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11348596/akshat-jindal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11348596/akshat-jindal">
+  <img align="left" alt="Akshat's StackOverflow" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+</a>
 
-<a href="https://instagram.com/akshat_jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshat_jindal" height="30" width="40" /></a>
+<a href="https://instagram.com/akshat_jindal">
+  <img align="center" alt="Akshat's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+</a>
 
 <a href="mailto:akshatjindal215@gmail.com">
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />

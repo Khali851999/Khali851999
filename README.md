@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### About Me 🚀
 
@@ -85,16 +86,12 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khali851999&layout=compact&langs_count=8)](https://github.com/Khali851999/github-readme-stats)
 
 <!--- [![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Khali851999/github-readme-stats) 
 --->
 
 ![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true)
-<p align="left"> <a href="https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true"><img src="https://github-profile-trophy.vercel.app/?username=khali851999" alt="khali851999" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khali851999" alt="khali851999" /></a> </p>
 

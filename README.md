@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### About Me 🚀
 
@@ -65,6 +64,7 @@ Here are some ideas to get you started:
 </br>
 👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. </br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 📫 I was a mentor for **Google Code-In'19** 

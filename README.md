@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="350" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khali851999&layout=compact&langs_count=8)](https://github.com/Khali851999/github-readme-stats)

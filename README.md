@@ -90,13 +90,13 @@ Here are some ideas to get you started:
 
 ![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khali851999&label=Profile%20views&color=0e75b6&style=flat" alt="khali851999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khali851999" alt="khali851999" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ak_jindal" target="blank"><img src="https://img.shields.io/twitter/follow/ak_jindal?logo=twitter&style=for-the-badge" alt="ak_jindal" /></a> </p>
+<!--- <p align="left"> <a href="https://twitter.com/ak_jindal" target="blank"><img src="https://img.shields.io/twitter/follow/ak_jindal?logo=twitter&style=for-the-badge" alt="ak_jindal" /></a> </p> --->
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Khali851999.Khali851999)
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=khali851999&label=Profile%20views&color=0e75b6&style=flat" alt="khali851999" /> </a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khali851999" alt="Akshat" /> </p> -->

@@ -38,6 +38,10 @@ Here are some ideas to get you started:
    <img align="left" alt="Akshat's Codeforces" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11348596/akshat-jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11348596/akshat-jindal" height="30" width="40" /></a>
+
+<a href="https://instagram.com/akshat_jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshat_jindal" height="30" width="40" /></a>
+
 <a href="mailto:akshatjindal215@gmail.com">
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>

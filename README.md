@@ -56,15 +56,15 @@ Here are some ideas to get you started:
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### About Me 🚀
 
 🎓 I am a pre-final year undergraduate pursuing my Bachelors in Software Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
 </br>
-</br>
-👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. </br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. 
+</br>
 
 - 👨🏽‍💻 I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
 - 📫 I was a mentor for **Google Code-In'19**

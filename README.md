@@ -56,14 +56,21 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### About Me 🚀
 
-🎓 I am a pre-final year undergraduate pursuing my Bachelors in Software Engineering from Delhi Technological University (Formerly DCE).
+🎓 I am a pre-final year undergraduate pursuing my Bachelors in Software Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
 </br>
-👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development UI/UX Design & exploring new technologies. </br>
+👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. </br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 📫 I was a mentor for Google Code-In 19 
+- 🌱 I’m currently learning REST Architeture and C++; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@akshat_jindal](https://www.linkedin.com/in/akshat-jindal);
+- 📝[Resume](https://drive.google.com/file/d/1fWG_JQBYyaaNXlavxaI55Ha4euHf2sou/view)
 
 <h3 align="left">Languages and Tools:</h3>
 

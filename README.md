@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 🎓 I am a pre-final year undergraduate pursuing my Bachelors in Software Engineering from Delhi Technological University (Formerly DCE).
 </br>
-👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, UI/UX Design & I enjoy learning new things. </br>
+👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development UI/UX Design & exploring new technologies. </br>
 
 
 <h3 align="left">Languages and Tools:</h3>

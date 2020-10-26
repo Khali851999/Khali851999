@@ -58,9 +58,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khali851999&layout=compact)](https://github.com/Khali851999/github-readme-stats)
 
-[![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Khali851999/github-readme-stats)
+<!--- [![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Khali851999/github-readme-stats) 
+--->
 
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true)
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Khali851999.Khali851999)
 

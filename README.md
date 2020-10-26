@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <!--- [![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Khali851999/github-readme-stats) 
 --->
 
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true)
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=Khali851999&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true&theme=gotham)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khali851999" alt="khali851999" /></a> </p>
 

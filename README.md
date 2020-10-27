@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
 - 📫 I was a mentor for **Google Code-In'19**
-- 🌱 I’m currently learning REST Architeture and C++
+- 🌱 I’m currently learning REST Architecture and C++
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@akshat_jindal](https://www.linkedin.com/in/akshat-jindal)
 <!-- - 📝[Resume](https://drive.google.com/file/d/1fWG_JQBYyaaNXlavxaI55Ha4euHf2sou/view) --->

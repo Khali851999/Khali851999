@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://github.com/Khali851999)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://khali851999.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -66,7 +66,8 @@ Here are some ideas to get you started:
 👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. 
 </br>
 
-- 👨🏽‍💻 I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
+- 💻 Checkout my website: https://khali851999.github.io/
+- 👨🏽‍ I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
 - 📫 I was a mentor for **Google Code-In'19**
 - 🌱 I’m currently learning REST Architecture and C++
 - 💬 Ask me about anything, I am happy to help;

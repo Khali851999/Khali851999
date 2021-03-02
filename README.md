@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left">
   
 <a href="https://www.linkedin.com/in/akshat-jindal">
-  <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="32px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/linkedin.svg"  />
 </a>
 
 <a href="https://twitter.com/ak_jindal">

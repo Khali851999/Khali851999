@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://twitter.com/ak_jindal">
-  <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="32px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/github.svg" />
 </a>
 
 <a href="https://medium.com/@akshatjindal215">

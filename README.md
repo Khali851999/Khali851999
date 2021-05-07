@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. 
 </br>
 
-- 💻 Checkout my website: akshatjinda.me/
+- 💻 Checkout my website: [akshatjindal.me](http://akshatjindal.me)
 - 👨🏽‍ I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
 - 📫 I was a mentor for **Google Code-In'19**
 - 🌱 I’m currently learning REST Architecture and C++

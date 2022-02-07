@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 
-🎓 I am a final year undergraduate pursuing my Bachelors in Software Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
+🎓 I am Incoming Software Developer [@Intuit](https://www.intuit.com/) and a final year undergraduate pursuing my Bachelors in Software Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
 </br>
 
 👨‍💻 I’m an Open-Source enthusiast passionate about Android Development, Web Development, UI/UX Design & exploring new technologies. 
 </br>
 
 - 💻 Checkout my website: [akshatjindal.me](http://akshatjindal.me)
-- 👨🏽‍ I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/) :wink:
+- 👨🏽‍ I’m Leading [@HackClub DTU](https://hackclub.com/) and [API-DTU](https://www.facebook.com/groups/api.dtu/), Android Lead [DSC-DTU](https://dsc-dtu.github.io/team) :wink:
 - 📫 I was a mentor for **Google Code-In'19**
 - 🌱 I’m currently learning REST Architecture and C++
 - 💬 Ask me about anything, I am happy to help;
